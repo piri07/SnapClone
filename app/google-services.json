@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "213252911457",
+    "firebase_url": "https://snapclone-455fa.firebaseio.com",
+    "project_id": "snapclone-455fa",
+    "storage_bucket": "snapclone-455fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213252911457:android:6f2749b8720beea889d520",
+        "android_client_info": {
+          "package_name": "com.example.snapclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213252911457-juan262lka8mdc9gbv069n4quk2ggm7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtiMg-Yh-_vwiP2GSMtKKXrsX7OpINhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213252911457-juan262lka8mdc9gbv069n4quk2ggm7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
